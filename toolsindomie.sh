@@ -3,7 +3,7 @@
 # Auto Install Tools <3
 # Coded By indomie haxor
 # indomiehaxor@protonmail.com
-# 666
+# duar memeg
 
 # Bersihkan Layar
 clear
@@ -36,24 +36,24 @@ exit
 }
 
 # Isi oc :*
-echo -e $cyan"      .__            .___             .__           __                .__          "
-echo -e $green"     |__| ____    __| _/____   _____ |__| ____   _/  |_  ____   ____ |  |   ______"
-echo -e $white"     |  |/    \  / __ |/  _ \ /     \|  |/ __ \  \   __\/  _ \ /  _ \|  |  /  ___/"
-echo -e $red"       |  |   |  \/ /_/ (  <_> )  Y Y  \  \  ___/   |  | (  <_> |  <_> )  |__\___ \ "
-echo -e $cyan"      |__|___|  /\____ |\____/|__|_|  /__|\___  >  |__|  \____/ \____/|____/____  >"    
-echo -e $green"             \/      \/            \/        \/                                \/ "
+echo -e $cyan"   .__            .___             .__           __                .__          "
+echo -e $green"  |__| ____    __| _/____   _____ |__| ____   _/  |_  ____   ____ |  |   ______"
+echo -e $white"  |  |/    \  / __ |/  _ \ /     \|  |/ __ \  \   __\/  _ \ /  _ \|  |  /  ___/"
+echo -e $red"    |  |   |  \/ /_/ (  <_> )  Y Y  \  \  ___/   |  | (  <_> |  <_> )  |__\___ \ "
+echo -e $cyan"   |__|___|  /\____ |\____/|__|_|  /__|\___  >  |__|  \____/ \____/|____/____  >"    
+echo -e $green"          \/      \/            \/        \/                                \/ "
 echo ""
-echo -e $white"         ***********************************************"
-echo -e $white"         #                                             #"
-echo -e $white"         # $cyan  Tools ini untuk$red orang malas$white                   #"
-echo -e $white"         # $cyan  V3rluchie Tools Recoded by$red Indomie Haxor$white          #"
+echo -e $white"         **************************************************************"
+echo -e $white"         #                                                            #"
+echo -e $white"         # $cyan  Tools ini untuk$red orang malas$white               #"
+echo -e $white"         # $cyan  V3rluchie Tools Recoded by$red Indomie Haxor$white  #"
 echo -e $white"         # $cyan  Follow Me On Github:$red @aryanrtm$white            #"
-echo -e $white"         # $cyan  My Site:$red https://indomiehaxor.blogspot.com$white #"
-echo -e $white"         # $cyan  Contact Me In:$red indomiehaxor@protonmail.com$white    #"
+echo -e $white"         # $cyan  My Site:$red https://indomiehaxor.blogspot.com$white#"
+echo -e $white"         # $cyan  Contact Me In:$red indomiehaxor@protonmail.com$white#"
 echo -e $white"         # $cyan  Changelog: $red 25-03-2023   $white                 #"
-echo -e $white"         # $cyan  Team: $red Bekasi Black Hunter$white                    #"
-echo -e $white"         #                                             #"
-echo -e $white"         ***********************************************"
+echo -e $white"         # $cyan  Team: $red Bekasi Black Hunter$white                #"
+echo -e $white"         #                                                            #"
+echo -e $white"         **************************************************************"
 echo ""
 echo -e $yellow" 01) Red Hawk"
 echo -e $yellow" 02) D-Tect"
@@ -78,7 +78,7 @@ echo -e $yellow" 20) Dirbuster "
 echo -e $yellow" 21) Pybelt "
 echo -e $red" 22) Exit "
 echo -e $white""
-read -p "[4WSec@Tools]> " act;
+read -p "[indomie$tools]> " act;
 
 if [ $act = 1 ] || [ $act = 01 ]
 then
