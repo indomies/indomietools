@@ -47,7 +47,7 @@ echo -e $white"         ********************************************************
 echo -e $white"         #                                                            #"
 echo -e $white"         # $cyan  Tools ini untuk$red orang malas$white               #"
 echo -e $white"         # $cyan  V3rluchie Tools Recoded by$red Indomie Haxor$white  #"
-echo -e $white"         # $cyan  Follow Me On Github:$red @aryanrtm$white            #"
+echo -e $white"         # $cyan  Follow Me On Github:$red @indomiehaxor$white        #"
 echo -e $white"         # $cyan  My Site:$red https://indomiehaxor.blogspot.com$white#"
 echo -e $white"         # $cyan  Contact Me In:$red indomiehaxor@protonmail.com$white#"
 echo -e $white"         # $cyan  Changelog: $red 25-03-2023   $white                 #"
